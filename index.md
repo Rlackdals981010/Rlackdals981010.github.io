@@ -1,5 +1,5 @@
 ---
-title: Hello World!!
+title: rlackdals_98's Blog
 layout: home
 permalink: /
 ---
