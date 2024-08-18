@@ -21,6 +21,14 @@ remote_theme: b2a3e8/jekyll-theme-console
 collections:
   daily:
     output: true
+  project:
+    output: true
+  cs:
+    output: true
+  sql:
+    output: true
+  be:
+    output: true
 
 # _config.yml
 markdown: kramdown
