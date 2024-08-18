@@ -23,6 +23,8 @@ collections:
     output: true
   project:
     output: true
+  subproject:
+    output: true
   cs:
     output: true
   sql:
