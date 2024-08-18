@@ -1,5 +1,5 @@
 ---
-title: rlackdals_98's Blog
+title: Rlackdals_98's Blog
 layout: home
 permalink: /
 ---
