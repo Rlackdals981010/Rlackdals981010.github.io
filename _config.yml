@@ -14,6 +14,8 @@ header_pages:
 plugins:
   - jekyll-seo-tag
 
+baseurl: "/Rlackdals981010.github.io"
+
 remote_theme: b2a3e8/jekyll-theme-console
 
 collections:
