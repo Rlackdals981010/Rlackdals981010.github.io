@@ -2,9 +2,9 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+  - index.md
+  #- about.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
@@ -15,3 +15,7 @@ plugins:
   - jekyll-seo-tag
 
 remote_theme: b2a3e8/jekyll-theme-console
+
+collections:
+  daily:
+    output: true

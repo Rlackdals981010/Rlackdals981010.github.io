@@ -1,9 +1,9 @@
 ---
-title: /
+title: Hello World!!
 layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# rlackdals_98.blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[기존블로그](https://velog.io/@rlackdals_98/posts)에서 좀 더 개인화된 블로그 형식을 사용해보기 위해 블로그를 이동했습니다.
