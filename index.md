@@ -16,3 +16,8 @@ permalink: /
 
 24-08-19 [CS, Project 이동 완료]
 -> 기존블로그의 'CS', 'Project' 시리즈 이동 완료.
+
+
+# [링크]
+[Git Hub](https://github.com/Rlackdals981010)
+[1일 1문](https://github.com/Rlackdals981010/javacode)
