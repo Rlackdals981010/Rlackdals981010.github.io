@@ -7,7 +7,7 @@ permalink: /
 # rlackdals_98.blog
 
 {% highlight ruby %}
-System.out.println("Hello rlackdals_98.blog!");
+System.out.println("Hello World!!");
 {% endhighlight %}
 
 
