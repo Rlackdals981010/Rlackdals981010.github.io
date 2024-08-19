@@ -8,6 +8,10 @@ permalink: /
 
 
 # [정보]
+<details>
+<summary>업데이트</summary>
+<div markdown="1">
+
 24-08-18 [블로그 생성]
 -> [기존블로그](https://velog.io/@rlackdals_98/posts)에서 블로그 형식의 개인화를 위한 블로그 이동.
 
@@ -17,7 +21,18 @@ permalink: /
 24-08-19 [CS, Project 이동 완료]
 -> 기존블로그의 'CS', 'Project' 시리즈 이동 완료.
 
+</div>
+</details>
 
-# [링크]
+
+
+
+# [관련 사이트]
+<details>
+<summary>링크</summary>
+<div markdown="1">
 [Git Hub](https://github.com/Rlackdals981010)
 [1일 1문](https://github.com/Rlackdals981010/javacode)
+</div>
+</details>
+
