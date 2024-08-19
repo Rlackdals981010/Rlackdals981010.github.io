@@ -6,6 +6,10 @@ permalink: /
 
 # rlackdals_98.blog
 
+{% highlight ruby %}
+System.out.println("Hello World!");
+{% endhighlight %}
+
 
 # [정보]
 <details>
